@@ -1,4 +1,6 @@
-#projetino de calculo de imc 
+#projetino de calculo de imc
+#Comando em PYTHON para decobrir o IMC da pessoa diante a sua altura e peso, onde vai lhe trazere a sua clasificação diante do IMC
+
 print("CALCULO DE IMC")
 print("__________________________________________________")
 print("Coloque suas credenciais abaixo, para analise:")
